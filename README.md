@@ -1,5 +1,5 @@
-## 松村悠生だよ 
-
+## ただの効率はこだて未来大学の生徒だよ
+# 悪い人間じゃないよ
 <!--
 **Tsukinomaku/Tsukinomaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
